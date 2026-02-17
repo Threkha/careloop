@@ -1,0 +1,31 @@
+.header {
+    background-color: #003366; /* Dark Blue */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.services {
+    background-color: #ffffff; /* White */
+    color: #003366; /* Dark Blue */
+    padding: 20px;
+}
+
+.testimonials {
+    background-color: #f0f8ff; /* Light Blue */
+    padding: 20px;
+    border-left: 5px solid #003366;
+}
+
+.faq {
+    background-color: #ffffff; /* White */
+    color: #003366; /* Dark Blue */
+    padding: 20px;
+}
+
+.footer {
+    background-color: #003366; /* Dark Blue */
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
